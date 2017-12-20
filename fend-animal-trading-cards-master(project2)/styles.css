@@ -1,0 +1,40 @@
+body {
+    font-family: serif;
+    padding: 5px;
+}
+
+#page_border {
+    border: solid;
+    border-color: #e6e6e6;
+    border-width: 1px;
+    padding: 5px 10px 10px 10px;
+    width: 300px;
+    box-shadow: 5px 5px #e6e6e6 ; 
+}
+
+#name_of_animal{
+    padding: 10px 0px 10px 0px;
+}
+
+.img_calopsita {
+    height: 200px;
+    width: 300px;
+    padding: 5px 0px 10px 0px;
+}
+
+#text {
+    width: 300px;
+    border: solid;
+    border-color: #e6e6e6;
+    border-width: 1px;
+    
+}
+
+#first_paragraph {
+    font-style: italic;
+}
+
+span.items {
+    font-weight: bold;
+}
+
