@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 14pt;
+  }
+  .bordered {
+    border: 2px solid #2e3d49;
+  }
+  .parent {
+    height: 100%;
+    background-color: #dbe2e8;
+    padding: 8px;
+  }
+  .light-olive {
+    background-color: #DFDFD1;
+  }
+  .relative {
+    position: relative;
+    top: 50px;
+  }
+  .sibling {
+    display: inline-block;
+    background-color: #15C26B;
+    width: 150px;
+    height: 100px;
+  }
+  .child {
+    background-color: #ffae0c;
+  }
