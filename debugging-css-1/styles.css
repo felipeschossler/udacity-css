@@ -24,6 +24,7 @@
     background-color: #15C26B;
     width: 150px;
     height: 100px;
+    vertical-align: top;
   }
   .child {
     background-color: #ffae0c;
