@@ -32,9 +32,18 @@ body {
 
 #first_paragraph {
     font-style: italic;
+    padding: 5px;
+}
+
+#second_paragraph{
+    padding: 5px;
 }
 
 span.items {
     font-weight: bold;
 }
 
+ul {
+    list-style-type: none;
+    padding: 5px;
+}
